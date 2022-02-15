@@ -31,12 +31,6 @@
             car.SearchCar(arr);
             motorcycle.SearchCar(arr1);
             truck.SearchCar(arr2);
-
-            /*motorcycle.InputArr(trans);
-            motorcycle.OutputArr(trans);
-            motorcycle.SearchCar(trans);*/
-            
-            
         }
     }
 }
